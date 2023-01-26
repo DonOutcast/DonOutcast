@@ -38,7 +38,6 @@
 | [Multilayer_Perceptron](https://github.com/DonOutcast/s21_MultilayerPerceptron)| This project is about machine learning Implementation of a multilayer perceptron. C++ , Qt, Html, css, MVC|  Implementation of a multilayer perceptron |
 | [Stl_Containers_C++](https://github.com/DonOutcast/s21_containers-cpp)| In this project, you will implement a few container types of the C++ standard template library | C++, allocator, friend, OOP, MVC|
 | [3D_Viewer_version_1.0](https://github.com/DonOutcast/3D-viewer-v1.0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
-| [Smart_Calc_version_1.0]|(https://github.com/DonOutcast/s21_SmartCalc-v1.0) | This project is about base calculater and credit and deposit with polish notation | C++, Qt, Html, css, MVC, OOP |
 | [Smart_Calc_version_1.0](https://github.com/DonOutcast/s21_SmartCalc-v1.0) | This project is about base calculater and credit ande deposti with polish notation | C, C++, Qt, Html, css, MVC, OOP |
 | [Smart_Calc_version_2.0](https://github.com/DonOutcast/s21_SmartCalc-v2.0)| This project is about base calculater and credit and deposit with polish notation | C++, Qt, Html, css, MVC, OOP |
 
