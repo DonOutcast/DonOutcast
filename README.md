@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOutcast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<br> Projects I've worked on </br>
+<br> Python Projects </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Cafe Telegramm Bot](https://github.com/DonOutcast/cafe-bot-aiogram)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
@@ -35,6 +35,7 @@
 <br> C/C++ Projects </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
+| [Multilayer Perceptron](https://github.com/DonOutcast/s21_MultilayerPerceptron)| C++ , Qt, Html, css, MVC|  Implementation of a multilayer perceptron |  
 | [3D Viewer version 1.0](https://github.com/DonOutcast/3D-viewer-v1.0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 
 <!--
