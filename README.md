@@ -33,6 +33,8 @@
 | [html_css_practic](https://github.com/ilnrzakirov/html_css_practic) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 
 <br> C/C++ Projects </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
 | [3D Viewer version 1.0](https://github.com/DonOutcast/3D-viewer-v1.0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 
 <!--
