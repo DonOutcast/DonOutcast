@@ -7,7 +7,7 @@
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Cafe Telegramm Bot](https://github.com/DonOutcast/cafe-bot-aiogram)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
-| [webserv](https://github.com/ilnrzakirov/Inception)  |  This project is about writing your ow HTTP server.   | C++, select, socket, connect, fcntl, htons, htonl, ntohs, poll, kqueue, accept |
+| [Book Bot 21](https://github.com/DonOutcast/bookbot21)  |  This project is about writing your booking system at School 21.   | Python, PostgreSql, Aiogram|
 | [cub3D](https://github.com/ilnrzakirov/cu3D)  |  This project is inspired by the world-famous Wolfenstein 3D game    | mlx lib, perror, math, Ray casting, graphics |
 | [Piscine Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 | [TerminalGame](https://github.com/ilnrzakirov/terminal_game) | Turn-based console game |   Java 1.8, including, String, IO, Jcommander, JAR, maven, JCDP  |
