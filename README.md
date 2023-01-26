@@ -35,8 +35,8 @@
 <br> C/C++ Projects </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [Multilayer Perceptron](https://github.com/DonOutcast/s21_MultilayerPerceptron)| This project is about machine learning Implementation of a multilayer perceptron. C++ , Qt, Html, css, MVC|  Implementation of a multilayer perceptron |  
-| [3D Viewer version 1.0](https://github.com/DonOutcast/3D-viewer-v1.0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
+| [Multilayer_Perceptron](https://github.com/DonOutcast/s21_MultilayerPerceptron)| This project is about machine learning Implementation of a multilayer perceptron. C++ , Qt, Html, css, MVC|  Implementation of a multilayer perceptron |  
+| [3D_Viewer_version_1.0](https://github.com/DonOutcast/3D-viewer-v1.0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 
 <!--
 **DonOutcast/DonOutcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
