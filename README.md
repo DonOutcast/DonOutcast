@@ -42,6 +42,10 @@
 | [Smart_Calc_version_1.0](https://github.com/DonOutcast/s21_SmartCalc-v1.0) | This project is about base calculater and credit ande deposti with polish notation | C, C++, Qt, Html, css, MVC, OOP |
 | [Smart_Calc_version_2.0](https://github.com/DonOutcast/s21_SmartCalc-v2.0)| This project is about base calculater and credit and deposit with polish notation | C++, Qt, Html, css, MVC, OOP |
 
+<br> Intensive testing </br>
+| Project name      | Description                | Tools |
+| ------------- |:------------------------:| ------------------------:|
+| [Golang_Bootcamp](https://github.com/DonOutcast/School21_Golang_BootCamp) | A 14-day long intensive course covering topics from Golang Core |  Go, Api, Web, Database|
 <!--
 **DonOutcast/DonOutcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
