@@ -6,7 +6,7 @@
 <br> Python Projects </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
-| [Cafe_Telegramm_Bot](https://github.com/DonOutcast/cafe-bot-aiogram)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
+| [Cafe_Telegramm_Bot](https://github.com/DonOutcast/cafe-bot-aiogram)  |  This project is about Cafe or Restaurant service | Python, PostgreSql, Aiogram, Asyncio, Pydantic, OOP, Redis|
 | [Book_Bot_21](https://github.com/DonOutcast/bookbot21)  |  This project is about writing your booking system at School 21.   | Python, PostgreSql, Aiogram|
 | [Web_Shop](https://github.com/DonOutcast/Django_web_shop) | This project is about shop in internet. | Python, Jinja, PostgreSql, Megration, HTML, CSS |
 | [Piscine_Python](https://github.com/DonOutcast/School21_Python_BootCamp) | A 14-day long intensive course covering topics from Python Core (including, Reflection API, Collections, Sphinx, Aiogram, Asyncio, Pytest and Multi-Threading). |   Python 3.9, Pytest, Redis, Neo4j, PostgreSQL, Sphinx, FastApi   |
