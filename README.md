@@ -11,7 +11,7 @@
 | [Web_Shop](https://github.com/DonOutcast/Django_web_shop) | This project is about shop in internet. | Python, Jinja, PostgreSql, Megration, HTML, CSS |
 | [Piscine_Python](https://github.com/DonOutcast/School21_Python_BootCamp) | A 14-day long intensive course covering topics from Python Core (including, Reflection API, Collections, Sphinx, Aiogram, Asyncio, Pytest and Multi-Threading). |   Python 3.9, Pytest, Redis, Neo4j, PostgreSQL, Sphinx, FastApi   |
 | [Piscine _Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
-
+| [Python_Basic](https://github.com/DonOutcast/Python_Basic/tree/main) | Basic Python course. Introduction to OOP  | Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 
 <br> C/C++ Projects </br>
 | Project name      | Description                | Tools |
