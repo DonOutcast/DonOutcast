@@ -8,6 +8,7 @@
 | ------------- |:------------------------:| ------------------------:|
 | [Cafe_Telegramm_Bot](https://github.com/DonOutcast/cafe-bot-aiogram)  |  This project aims to broaden your knowledge of system administration by using Docker    | Linux (debian), Docker, Docker-compose, Nginx, Shell, MariaDB, Wordpress |
 | [Book_Bot_21](https://github.com/DonOutcast/bookbot21)  |  This project is about writing your booking system at School 21.   | Python, PostgreSql, Aiogram|
+| [Web_Shop](https://github.com/DonOutcast/Django_web_shop) | This project is about shop in internet. | Python, Jinja, PostgreSql, Megration, HTML, CSS |
 | [Piscine_Python](https://github.com/DonOutcast/School21_Python_BootCamp) | A 14-day long intensive course covering topics from Python Core (including, Reflection API, Collections, Sphinx, Aiogram, Asyncio, Pytest and Multi-Threading). |   Python 3.9, Pytest, Redis, Neo4j, PostgreSQL, Sphinx, FastApi   |
 | [Piscine _Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 
