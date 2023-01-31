@@ -28,6 +28,7 @@
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Golang_Bootcamp](https://github.com/DonOutcast/School21_Golang_BootCamp) | A 14-day long intensive course covering topics from Golang Core |  Go, Api, Web, Database|
+| [Kotlin_Bootcamp](https://github.com/DonOutcast/School21_Kotlin_Bootcamp) | A 14-day long intensive course covering topics from Kotlin Core |  Kotlin, Java, Gradel |
 <!--
 **DonOutcast/DonOutcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
