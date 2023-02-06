@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">DonOutcast </a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Zilya </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Text mining student in Kazan Federal University, interested in Data analysis, engineering, NLP </h3>
+
+  
 ### I write code in C/C++ and Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOutcast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
