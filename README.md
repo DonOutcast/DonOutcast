@@ -71,13 +71,13 @@
   
   
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-zilya&layout=compact)](https://github.com/nur-zilya/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&layout=compact)](https://github.com/DonOutcast/github-readme-stats) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nur-zilya&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonOutcast&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nur-zilya&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nur-zilya&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nur-zilya&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DonOutcast&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nur-zilya&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nur-zilya&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Donoutcast&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DonOutcast&theme=solarized_dark)
 
 ![](https://komarev.com/ghpvc/?username=your-github-DonOutcast)
   
