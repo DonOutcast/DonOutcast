@@ -36,17 +36,6 @@
   💻 IDEs/Editors:
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
   
-  
-  Other:
-  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-  
-  
-  
-  
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&layout=compact)](https://github.com/DonOutcast/github-readme-stats) -->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DonOutcast&theme=solarized_dark) -->
@@ -105,6 +94,11 @@
     ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+  Other:
+  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Golang_Bootcamp](https://github.com/DonOutcast/School21_Golang_BootCamp) | A 14-day long intensive course covering topics from Golang Core |  Go, Api, Web, Database|
