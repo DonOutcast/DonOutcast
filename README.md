@@ -8,9 +8,6 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
    
-  📚 Frameworks, Platforms and Libraries C++:
-  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
     
    💾 Databases:
    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -94,6 +91,9 @@
 | [Python_Basic](https://github.com/DonOutcast/Python_Basic/tree/main) | Basic Python course. Introduction to OOP  | Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 
 <br> C/C++ Projects </br>
+  📚 Frameworks, Platforms and Libraries C++:
+  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Multilayer_Perceptron](https://github.com/DonOutcast/s21_MultilayerPerceptron)| This project is about machine learning Implementation of a multilayer perceptron. C++ , Qt, Html, css, MVC|  Implementation of a multilayer perceptron |
