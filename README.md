@@ -2,10 +2,20 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Text mining student in Kazan Federal University, interested in Data analysis, engineering, NLP </h3>
 
+  Languages:
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+OS:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
   
 ### I write code in C/C++ and Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOutcast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br> Python Projects </br>
 | Project name      | Description                | Tools |
