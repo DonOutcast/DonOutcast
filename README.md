@@ -16,6 +16,13 @@
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   
+  
+  Contact info:
+  [![G-Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuretdinovazi@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hard_wolf_l)
+  
+  
+  
 ### I write code in C/C++ and Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOutcast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
