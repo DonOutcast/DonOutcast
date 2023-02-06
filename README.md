@@ -68,6 +68,19 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
   
+  
+  
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nur-zilya&layout=compact)](https://github.com/nur-zilya/github-readme-stats) -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nur-zilya&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nur-zilya&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nur-zilya&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nur-zilya&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nur-zilya&theme=solarized_dark)
+
+![](https://komarev.com/ghpvc/?username=your-github-DonOutcast)
+  
 ### I write code in C/C++ and Python
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DonOutcast&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonOutcast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
