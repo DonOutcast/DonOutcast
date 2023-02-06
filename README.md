@@ -10,7 +10,6 @@
 | [Book_Bot_21](https://github.com/DonOutcast/bookbot21)  |  This project is about writing your booking system at School 21.   | Python, PostgreSql, Aiogram|
 | [Web_Shop](https://github.com/DonOutcast/Django_web_shop) | This project is about shop in internet. | Python, Jinja, PostgreSql, Megration, HTML, CSS |
 | [Piscine_Python](https://github.com/DonOutcast/School21_Python_BootCamp) | A 14-day long intensive course covering topics from Python Core (including, Reflection API, Collections, Sphinx, Aiogram, Asyncio, Pytest and Multi-Threading). |   Python 3.9, Pytest, Redis, Neo4j, PostgreSQL, Sphinx, FastApi   |
-| [Piscine _Java](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 | [Simple_Game](https://github.com/DonOutcast/simple-game-pygame)| This project is about game archer | Python, Pygame, Sql, OOP |
 | [Python_Basic](https://github.com/DonOutcast/Python_Basic/tree/main) | Basic Python course. Introduction to OOP  | Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 
@@ -29,6 +28,7 @@
 | ------------- |:------------------------:| ------------------------:|
 | [Golang_Bootcamp](https://github.com/DonOutcast/School21_Golang_BootCamp) | A 14-day long intensive course covering topics from Golang Core |  Go, Api, Web, Database|
 | [Kotlin_Bootcamp](https://github.com/DonOutcast/School21_Kotlin_Bootcamp) | A 14-day long intensive course covering topics from Kotlin Core |  Kotlin, Java, Gradel |
+| [Java_Bootcamp](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 <!--
 **DonOutcast/DonOutcast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
