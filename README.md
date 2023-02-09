@@ -65,7 +65,6 @@
 <br> C/C++ Projects </br>
   📚 Frameworks, Platforms and Libraries C++:
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Multilayer_Perceptron](https://github.com/DonOutcast/s21_MultilayerPerceptron)| This project is about machine learning Implementation of a multilayer perceptron. C++ , Qt, Html, css, MVC|  Implementation of a multilayer perceptron |
