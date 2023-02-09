@@ -61,6 +61,7 @@
 | [Piscine_Python](https://github.com/DonOutcast/School21_Python_BootCamp) | A 14-day long intensive course covering topics from Python Core (including, Reflection API, Collections, Sphinx, Aiogram, Asyncio, Pytest and Multi-Threading). |   Python 3.9, Pytest, Redis, Neo4j, PostgreSQL, Sphinx, FastApi   |
 | [Simple_Game](https://github.com/DonOutcast/simple-game-pygame)| This project is about game archer | Python, Pygame, Sql, OOP |
 | [Python_Basic](https://github.com/DonOutcast/Python_Basic/tree/main) | Basic Python course. Introduction to OOP  | Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
+| [Sorting_Algorithm](https://github.com/DonOutcast/Algorithms_Python) | Sorting Algoritgm in Python Bubble sort, Selection sort, Insertion sort|  Python, Algorithm|
 
 <br> C/C++ Projects </br>
   📚 Frameworks, Platforms and Libraries C++:
