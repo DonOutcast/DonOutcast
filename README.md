@@ -104,6 +104,7 @@
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
+| [Data_Scientist_Bootcamp](https://github.com/DonOutcast/School21_Data_Scientist_Bootcamp)| A-14 day long intensive course coverinnig topics from Python Data Scientist | Python3.9, Pands, Numpy|
 | [Golang_Bootcamp](https://github.com/DonOutcast/School21_Golang_BootCamp) | A 14-day long intensive course covering topics from Golang Core |  Go, Api, Web, Database|
 | [Kotlin_Bootcamp](https://github.com/DonOutcast/School21_Kotlin_Bootcamp) | A 14-day long intensive course covering topics from Kotlin Core |  Kotlin, Java, Gradel |
 | [Java_Bootcamp](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
