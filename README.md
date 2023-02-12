@@ -59,6 +59,7 @@
 | [Book_Bot_21](https://github.com/DonOutcast/bookbot21)  |  This project is about writing your booking system at School 21.   | Python, PostgreSql, Aiogram|
 | [Web_Shop](https://github.com/DonOutcast/Django_web_shop) | This project is about shop in internet. | Python, Jinja, PostgreSql, Megration, HTML, CSS |
 | [Piscine_Python](https://github.com/DonOutcast/School21_Python_BootCamp) | A 14-day long intensive course covering topics from Python Core (including, Reflection API, Collections, Sphinx, Aiogram, Asyncio, Pytest and Multi-Threading). |   Python 3.9, Pytest, Redis, Neo4j, PostgreSQL, Sphinx, FastApi   |
+| [Piscine_Django](https://github.com/DonOutcast/School42_Django_Bootcamp)| | |  
 | [Piscine_Data_Scientist](https://github.com/DonOutcast/School21_Data_Scientist_Bootcamp)| A-14 day long intensive course coverinnig topics from Python Data Scientist | Python3.9, Pands, Numpy|
 | [Simple_Game](https://github.com/DonOutcast/simple-game-pygame)| This project is about game archer | Python, Pygame, Sql, OOP |
 | [Python_Basic](https://github.com/DonOutcast/Python_Basic/tree/main) | Basic Python course. Introduction to OOP  | Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
