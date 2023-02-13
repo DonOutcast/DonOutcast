@@ -76,7 +76,7 @@
 | [3D_Viewer_version_1.0](https://github.com/DonOutcast/3D-viewer-v1.0) | Html and css Basics  |   HTML 5, CSS, Flexbox  |
 | [Smart_Calc_version_1.0](https://github.com/DonOutcast/s21_SmartCalc-v1.0) | This project is about base calculater and credit ande deposti with polish notation | C, C++, Qt, Html, css, MVC, OOP |
 | [Smart_Calc_version_2.0](https://github.com/DonOutcast/s21_SmartCalc-v2.0)| This project is about base calculater and credit and deposit with polish notation | C++, Qt, Html, css, MVC, OOP |
-| [S21_String+](https://github.com/DonOutcast/s21_string/tree/main)| in this project, you need type simple library in C language string.h and spintf() with sscanf() | C, Makefile, Check.h, Malloc|
+| [String+](https://github.com/DonOutcast/s21_string/tree/main)| in this project, you need type simple library in C language string.h and spintf() with sscanf() | C, Makefile, Check.h, Malloc|
 
 
 
