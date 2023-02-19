@@ -64,6 +64,7 @@
 | [Simple_Game](https://github.com/DonOutcast/simple-game-pygame)| This project is about game archer | Python, Pygame, Sql, OOP |
 | [Python_Basic](https://github.com/DonOutcast/Python_Basic/tree/main) | Basic Python course. Introduction to OOP  | Python, OOP, itertools, datetime, unitest, decorator, iterator, generator, RegEX |
 | [Sorting_Algorithm](https://github.com/DonOutcast/Algorithms_Python) | Sorting Algoritgm in Python Bubble sort, Selection sort, Insertion sort|  Python, Algorithm|
+| [Simple_bot](https://github.com/DonOutcast/bot-python) | This project about telegram bot | Aiogmra, Python |
 
 <br> C/C++ Projects </br>
   📚 Frameworks, Platforms and Libraries C++:
