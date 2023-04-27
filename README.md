@@ -111,18 +111,7 @@
 | [Kotlin_Bootcamp](https://github.com/DonOutcast/School21_Kotlin_Bootcamp) | A 14-day long intensive course covering topics from Kotlin Core |  Kotlin, Java, Gradel |
 | [Java_Bootcamp](https://github.com/ilnrzakirov/piscine_java) | A 14-day long intensive course covering topics from Java Core (including, Reflection API, Collections, JDBC and Multi-Threading) to Spring & Sockets. |   Java 1.8, including, String, UUID, threads, IO, JAR, maven, PostgreSQL, jtest, reflection, Spring, Sockets   |
 
-<br> Intensive testing </br>
-   📋 Bootcamps Languages:
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
-  💻 DevOps:
+<br> DevOps </br>
 | Project name      | Description                | Tools |
 | ------------- |:------------------------:| ------------------------:|
 | [Linux](https://github.com/DonOutcast/linux-operating-systems-basic) | Linux |  Ubuntu 20.0, terminal, bash|
